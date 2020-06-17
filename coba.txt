@@ -1,6 +1,5 @@
-<<<<<<< Bayu
+Lagi nyoba nyari error merge
 Ini adalah percobaan github pertama saya.
 Saya juga baru belajar dan baru tau fungsi aplikasi ini.
 Mantap deh
-=======
->>>>>>> master
+ini update lagi coba.
