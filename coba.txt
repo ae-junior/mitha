@@ -1,4 +1,4 @@
-Lagi nyoba nyari error merge
 Ini adalah percobaan github pertama saya.
 Saya juga baru belajar dan baru tau fungsi aplikasi ini.
 Mantap deh
+Kayanya gw paham error mergenya.
