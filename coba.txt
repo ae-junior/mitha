@@ -1,3 +1,6 @@
+<<<<<<< Bayu
 Ini adalah percobaan github pertama saya.
 Saya juga baru belajar dan baru tau fungsi aplikasi ini.
 Mantap deh
+=======
+>>>>>>> master
