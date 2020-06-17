@@ -1,1 +1,2 @@
-Hallo.
+Hallo, Teman.
+Ini adalah percobaan github pertama saya.
