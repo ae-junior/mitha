@@ -1,4 +1,6 @@
-Ini adalah percobaan github kedua saya.
-ternyata excel ga support edit disini.
-terpaksa ganti dah.
-thank, kawan.
+<<<<<<< Bayu
+Ini adalah percobaan github pertama saya.
+Saya juga baru belajar dan baru tau fungsi aplikasi ini.
+Mantap deh
+=======
+>>>>>>> master
