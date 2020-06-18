@@ -1,9 +1,10 @@
-Sekarang master gw updated.
+Fix eror dah.
 Saya juga baru belajar dan baru tau fungsi aplikasi ini.
 iya jadi itu error merge karna masternya update. di branch lain juga update. Musti milih yang baik.
 Pasti abis dicoba merge, bakalan merah dah.
 Mantap deh.
-Mantap deh
 Kayanya gw paham error mergenya.
+
 di bayu juga gw update.
+
 pasti error
