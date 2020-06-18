@@ -4,4 +4,7 @@ iya jadi itu error merge karna masternya update. di branch lain juga update. Mus
 Pasti abis dicoba merge, bakalan merah dah.
 Mantap deh.
 Kayanya gw paham error mergenya.
-Error
+
+di bayu juga gw update.
+
+pasti error
